@@ -1,0 +1,11 @@
+Pokemon Name,CP,Attack,Defense,HP,Shiny,Lucky,Dynamax,Move Set
+Bulbasaur,900,15,14,13,False,False,False,Vine Whip/Sludge Bomb
+Bulbasaur,850,10,9,11,False,False,False,Vine Whip/Sludge Bomb
+Charmander,950,15,15,14,True,False,False,Ember/Blast Burn
+Charmander,800,8,7,9,False,False,False,Ember/Blast Burn
+Squirtle,870,13,15,12,False,True,False,Water Gun/Hydro Cannon
+Squirtle,700,5,6,8,False,False,False,Water Gun/Hydro Cannon
+Pidgey,300,15,15,15,False,False,False,Tackle/Twister
+Pidgey,250,4,3,5,False,False,False,Tackle/Twister
+Magikarp,150,15,15,15,False,False,False,Tackle/Twister
+Magikarp,120,2,2,3,False,False,False,Tackle/Twister
